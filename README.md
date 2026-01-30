@@ -326,3 +326,6 @@ pytest tests/config_test.py -v
 ## Contributing
 
 Contributions are welcome!
+<br><br>
+
+This Project was inspired by the Database Backup Utility project from [Roadmap.sh](https://roadmap.sh/projects/database-backup-utility)
